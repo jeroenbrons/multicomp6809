@@ -402,7 +402,7 @@ mm1 : entity work.mem_mapper2
             dataOut => mmDataOut,
             regAddr => cpuAddress(2 downto 0),
 
-            cpuAddr => cpuAddress(15 downto 13),
+            cpuAddr => cpuAddress(15 downto 9),
             ramAddr => sRamAddress_i(18 downto 13),
             ramWrInhib => ramWrInhib,
             romInhib => romInhib,

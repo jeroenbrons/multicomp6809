@@ -1,0 +1,125 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -16.159
+TNS   : -17244.964
+
+Type  : Slow Model Setup 'cpu09p:cpu1|ea[10]'
+Slack : -6.464
+TNS   : -391.435
+
+Type  : Slow Model Setup 'vduffd0'
+Slack : -4.124
+TNS   : -94.060
+
+Type  : Slow Model Hold 'vduffd0'
+Slack : -6.841
+TNS   : -256.208
+
+Type  : Slow Model Hold 'cpu09p:cpu1|ea[10]'
+Slack : -4.672
+TNS   : -337.394
+
+Type  : Slow Model Hold 'clk'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'clk'
+Slack : -1.226
+TNS   : -56.334
+
+Type  : Slow Model Recovery 'cpu09p:cpu1|ea[10]'
+Slack : 3.593
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'vduffd0'
+Slack : 5.904
+TNS   : 0.000
+
+Type  : Slow Model Removal 'vduffd0'
+Slack : -5.542
+TNS   : -53.860
+
+Type  : Slow Model Removal 'cpu09p:cpu1|ea[10]'
+Slack : -4.190
+TNS   : -63.914
+
+Type  : Slow Model Removal 'clk'
+Slack : 1.181
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -2.064
+TNS   : -3538.305
+
+Type  : Slow Model Minimum Pulse Width 'vduffd0'
+Slack : -1.469
+TNS   : -62.569
+
+Type  : Slow Model Minimum Pulse Width 'cpu09p:cpu1|ea[10]'
+Slack : -0.756
+TNS   : -161.088
+
+Type  : Fast Model Setup 'clk'
+Slack : -6.818
+TNS   : -5771.254
+
+Type  : Fast Model Setup 'cpu09p:cpu1|ea[10]'
+Slack : -3.147
+TNS   : -135.572
+
+Type  : Fast Model Setup 'vduffd0'
+Slack : -1.165
+TNS   : -16.715
+
+Type  : Fast Model Hold 'vduffd0'
+Slack : -3.534
+TNS   : -139.983
+
+Type  : Fast Model Hold 'cpu09p:cpu1|ea[10]'
+Slack : -1.597
+TNS   : -87.722
+
+Type  : Fast Model Hold 'clk'
+Slack : -0.761
+TNS   : -7.836
+
+Type  : Fast Model Recovery 'clk'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'cpu09p:cpu1|ea[10]'
+Slack : 1.655
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'vduffd0'
+Slack : 3.651
+TNS   : 0.000
+
+Type  : Fast Model Removal 'vduffd0'
+Slack : -2.878
+TNS   : -28.352
+
+Type  : Fast Model Removal 'cpu09p:cpu1|ea[10]'
+Slack : -1.222
+TNS   : -18.370
+
+Type  : Fast Model Removal 'clk'
+Slack : 0.585
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -2.000
+TNS   : -3023.732
+
+Type  : Fast Model Minimum Pulse Width 'vduffd0'
+Slack : -1.222
+TNS   : -51.222
+
+Type  : Fast Model Minimum Pulse Width 'cpu09p:cpu1|ea[10]'
+Slack : -0.550
+TNS   : -124.948
+
+------------------------------------------------------------

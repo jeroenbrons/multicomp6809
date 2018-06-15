@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Fri Jun 15 17:39:05 2018
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : Microcomputer
+Top-level Entity Name : Microcomputer
+Family : Cyclone II
+Total logic elements : 4,992 / 18,752 ( 27 % )
+    Total combinational functions : 4,413 / 18,752 ( 24 % )
+    Dedicated logic registers : 1,547 / 18,752 ( 8 % )
+Total registers : 1547
+Total pins : 66 / 315 ( 21 % )
+Total virtual pins : 0
+Total memory bits : 106,496 / 239,616 ( 44 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
